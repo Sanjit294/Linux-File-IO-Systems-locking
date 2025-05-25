@@ -86,12 +86,14 @@ return 0;
 
 ##  program that illustrates files copying
 
-![326678919-bebfc9f4-d20f-46e1-bf0b-7d5a439b2eea](https://github.com/user-attachments/assets/c3296207-75e2-4f91-bc67-36218312e63b)
+![image](https://github.com/user-attachments/assets/2ca58e00-041d-42a9-b2d9-cded5e2e0d43)
+
 
 ## C program that illustrates files locking
 
 
-![326678949-46738263-a92d-48e1-84ed-2fd056f31c5c](https://github.com/user-attachments/assets/dd50346d-6fe5-4a33-942d-bb2bb0e08b00)
+![image](https://github.com/user-attachments/assets/d0111ce6-1306-4f71-bfc5-236367318eba)
+
 
 
 
